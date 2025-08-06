@@ -4,6 +4,9 @@
 
 Stockly, küçük ve orta ölçekli işletmelerin stok yönetimini, satış analizlerini, müşteri segmentasyonunu ve fiyatlandırmayı yapay zeka desteğiyle daha verimli hale getiren açık kaynaklı bir stok takip sistemidir.
 
+![Anasayfa](images/1.png)
+
+
 ## 🚀 Özellikler
 
 ### 📦 Stok Yönetimi
