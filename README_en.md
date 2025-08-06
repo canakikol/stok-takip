@@ -4,6 +4,9 @@
 
 Stockly is an open-source, AI-powered inventory management system designed to help small and medium-sized businesses efficiently manage stock, analyze sales, segment customers, and optimize pricing.
 
+![Home Page](images/1.png)
+
+
 ## 🚀 Features
 
 ### 📦 Inventory Management
