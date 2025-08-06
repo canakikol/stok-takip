@@ -1,0 +1,9 @@
+id,tedarikci_adi,telefon,email,adres,urun_kategorileri,teslimat_suresi,performans_puani,son_siparis_tarihi,aktif_durum
+1,ABC Tekstil A.Ş.,0212-555-0101,info@abctekstil.com,İstanbul/Şişli,Tekstil,5,4.5,2025-01-20,True
+2,XYZ Ayakkabı Ltd.,0216-555-0202,satis@xyzayakkabi.com,İstanbul/Kadıköy,Ayakkabı,4,4.2,2025-01-18,True
+3,Delta Aksesuar,0312-555-0303,info@deltaaksesuar.com,Ankara/Çankaya,Aksesuar,3,4.0,2025-01-15,True
+4,Gamma Tekstil,0232-555-0404,satis@gammatekstil.com,İzmir/Konak,Tekstil,6,4.8,2025-01-25,True
+5,Omega Ayakkabı,0224-555-0505,info@omegaayakkabi.com,Bursa/Nilüfer,Ayakkabı,5,4.3,2025-01-22,True
+6,Beta Aksesuar,0242-555-0606,satis@betaaksesuar.com,Antalya/Murpaşa,Aksesuar,4,4.1,2025-01-19,True
+7,Sigma Tekstil,0322-555-0707,info@sigmatekstil.com,Adana/Seyhan,Tekstil,7,4.4,2025-01-21,True
+8,Theta Ayakkabı,0332-555-0808,satis@thetaayakkabi.com,Konya/Selçuklu,Ayakkabı,6,3.9,2025-01-17,True 

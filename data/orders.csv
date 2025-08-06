@@ -1,0 +1,10 @@
+id,tedarikci_id,urun_adi,miktar,birim_fiyat,toplam_fiyat,siparis_tarihi,teslimat_tarihi,durum,notlar
+1,1,Laptop,10,8000.0,80000.0,2025-07-20,2025-07-23,Teslim Edildi,Aciliyetli sipariş
+2,2,T-Shirt,50,45.0,2250.0,2025-07-18,2025-07-23,Teslim Edildi,Standart sipariş
+3,3,Masa Sandalye,5,1200.0,6000.0,2025-07-15,2025-07-22,Teslim Edildi,Ofis mobilyası
+4,4,Konserve,100,15.0,1500.0,2025-07-25,2025-07-27,Yolda,Stok takviyesi
+5,5,Şampuan,30,25.0,750.0,2025-07-22,2025-07-26,Yolda,Kozmetik ürünleri
+6,6,Spor Ayakkabı,20,350.0,7000.0,2025-07-19,2025-07-25,Yolda,Spor malzemeleri
+7,7,Roman,25,35.0,875.0,2025-07-21,2025-07-24,Teslim Edildi,Kitap siparişi
+8,8,Oyuncak Araba,40,80.0,3200.0,2025-07-17,2025-07-22,İptal Edildi,Kalite sorunu 
+9,4,ceket ,2,700.0,1400.0,2025-08-06,2025-08-08,Beklemede,Otomatik sipariş - Düşük stok uyarısı

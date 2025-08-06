@@ -1,0 +1,16 @@
+id,isim,stok,alis_fiyati,satis_fiyati,minimum_stok,kategori,stok_durumu
+1,pantolon,85,300.0,360.0,5,Tekstil,🟢 Normal
+2,sort,130,200.0,220.0,5,Tekstil,🟢 Normal
+3,tshirt,170,150.0,180.0,5,Tekstil,🟢 Normal
+4,ceket,9,700.0,1050.0,10,Tekstil,🔴 DÜŞÜK STOK
+5,ayakkabı,45,400.0,480.0,8,Tekstil,🟢 Normal
+6,çanta,25,250.0,300.0,5,Tekstil,🟢 Normal
+7,şapka,60,80.0,96.0,10,Tekstil,🟢 Normal
+8,kemer,35,120.0,144.0,5,Tekstil,🟢 Normal
+9,elbise,15,500.0,900.0,5,Tekstil,🟢 Normal
+10,mont,8,800.0,1200.0,10,Tekstil,🔴 DÜŞÜK STOK
+11,spor ayakkabı,30,350.0,420.0,8,Tekstil,🟢 Normal
+12,gözlük,20,200.0,240.0,5,Tekstil,🟢 Normal
+13,çorap,200,15.0,50.0,20,Tekstil,🟢 Normal
+14,boxer,150,25.0,30.0,15,Tekstil,🟢 Normal
+15,saat,12,1500.0,1800.0,3,Tekstil,🟢 Normal
